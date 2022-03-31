@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telega-abay",
+  "private_key_id": "843c9d56022f4e0466f27ce2059f7e738aba6052",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCHpAjlaAMg3mhq\nC/4cQT7r+9hTfjkd2Cb7HJECompVXTG3yGiCMBjTQxuQMe/VdDu59bjMJBG6tQJK\n+Hu0wFki+fREl8r2r/Qtbo9I4EehgreJsPz23GzVVEy6Ht/TEH2p4GiLqA0KVtU6\n3TaKyid/paovBQQBIYPOZlndnTti5jltcRBO8O3OB3RahYaLNKsWeGDeKJpe312K\nN6/3aMEUzEST/h9Bo7v34cmrAlnp8L6BDT4sAbZ9edpFxc8CnvPaV6V/Cj5RGUuv\nAbRN/q7fdWiFKZ3q0Yo3HsrcgUxzlrzmEdlLfyG8iDKfnUqqO7q8VhjpbMNMT8Xq\n0pD/XfNNAgMBAAECggEAFmL/5uD2Vzft8sa872vjVy5vQ0R7Z84TjPFni5BDzYf+\nmy8T9Jy8lC2owHFFfKzc6LHCCMtRM8gJM1d0j14JuCiZ5LJK2NEsk00CkAwYNnNt\nGGgiMBosSj9KFJPg7CR2IRH9H0Oit1iig78b7+cygrJUdsM0qH0gFHI3FckMEqPg\nRXMHw7YDbHRPaTg8LeMoVsrCKzgqXxb+yxlS073Xrdwg8SYZkKKJh99WClpL/YuN\n60Kt6yPqJjV11ZrT68cReXUBCnx8SXh6z2SiVVC788NFJFeFeh72xQTMBc9RU1qK\nCyhBabSIXSrPN5XADYzwYe+k5IyWhTj4OKTggIPN3wKBgQC8xHXoVV0VzqklXuCb\nXRVdKaPGehYhK/3Qh1x2XWo8dj9Z6lqQDacsgmikxVQpW2pvMqqKfl5HjT9leci/\nvprOcarw7c2x4zWecj90+4SJs1HWXZPuYemZ33W8d9m6WFJLvuacuGvqIdtbsBAZ\nofzj0OowGKvmtAJ6T8073NrAJwKBgQC384/s3xAzoJAAcQgiqnOmcWPdGTEk+MTA\nDEj8KLeiuDv6dESBZjr3wIayJAA8p5NgCB1Bzl/kIxxoxa1h2eEcuOh6T1Vno5u+\nkKNL8zOrM6jznWvqsD4sk6Tp1gyv5l+jcR912dSaY0b0G8ZtoDcH5AZYHoyOBe4k\nLDgJbMYlawKBgCwXh6L5LYEGgKPmAXjIyVC1hTe7FKgy6lpnA8XyE/qDdFDAWN8F\nEWNoIqE6Jmpym+3VW9h1o/f6mjBNvgJrtyU5j8AvC7jdZYzZCtF8Xnz7kcYMnZ00\n6aezdoDLTeQk9TQUJzG8MhjCR8am3VvfZn6gMdOCL8T3jwyaz0mIUOBJAoGAWkX7\nIcGuT8fCI5VU6r4/lzUaTwzn4z76P01IHAdXZ1GGjbi1TdN/qMog0Bd+zkVmu7//\nq6W9xVW9wWURW23zXYcY/70jKoNOEU0l9kXZ23C0vylIJpprSLEEQ4U6ILCryqff\nSpSmE0YZMf7XeEEiAItU2bXUQHaEkdfpgCaTbxUCgYB6GwvFAC26pmEkGUDUom19\nJjr4Z75DyDeMBSmicRfMnNYyLL+6Xq7YvJnvKNJlNjXaTwwf3R0ePwew37Mj4d/V\nKayXw4IU4RcSU8ubX1vkpsVauZ98/E4uXcpd+630DicVO7ZrwUa9eUVeiJO1reN4\nIHPmhA0sFuImIYGCF1LyKw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-sqzgc@telega-abay.iam.gserviceaccount.com",
+  "client_id": "101159263307616081892",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sqzgc%40telega-abay.iam.gserviceaccount.com"
+}
