@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor
 from aiogram.types import Message
 
 my_id = 850888379
-TOKEN = "5192395375:AAEbaEvMY4yI7Nuo8KcW3qpZJOCd1XdviDY"
+TOKEN = "5282975065:AAEmBhEsZaRvNHLt_U8wx_arMuSF6zCmWi8"
 
 loop = asyncio.get_event_loop()
 bot = Bot(TOKEN, parse_mode="HTML")
